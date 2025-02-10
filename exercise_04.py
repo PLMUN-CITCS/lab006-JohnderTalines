@@ -1,3 +1,4 @@
+import math
 number = 16
 sqrt_result = math.sqrt(number)
 pi_value = math.pi
